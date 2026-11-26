@@ -12,12 +12,6 @@ I'm happiest where hardware meets code: Arduino and microcontrollers, Python and
 and Linux boxes running Fedora and Kali.
 </p>
 
-<p align="center">
-  <a href="https://www.instagram.com/katleho_9525"><img src="https://img.shields.io/badge/Instagram-follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:mtimkhulukatleho@gmail.com"><img src="https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/Katleho-Frans-Mtimkhulu"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.tiktok.com/@katleho9525"><img src="https://img.shields.io/badge/TikTok-follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-</p>
 
 <p align="center"><b>Embedded &amp; Languages</b></p>
 
@@ -40,4 +34,15 @@ and Linux boxes running Fedora and Kali.
 <img src="https://cdn.simpleicons.org/opensuse" alt="openSUSE" height="45">
 <img src="https://cdn.simpleicons.org/virtualbox/58a6ff" alt="VirtualBox" height="45">
 <img src="https://cdn.simpleicons.org/tailscale/58a6ff" alt="Tailscale" height="45">
+</p>
+
+<p align="center">
+  Get in contact :
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/katleho_9525"><img src="https://img.shields.io/badge/Instagram-follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:mtimkhulukatleho@gmail.com"><img src="https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/Katleho-Frans-Mtimkhulu"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.tiktok.com/@katleho9525"><img src="https://img.shields.io/badge/TikTok-follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 </p>
