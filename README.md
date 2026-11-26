@@ -29,7 +29,6 @@ and Linux boxes running Fedora and Kali.
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="45">
 <img src="https://cdn.simpleicons.org/fedora" alt="Fedora" height="45">
-<img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" height="45">
 <img src="https://cdn.simpleicons.org/popos" alt="Pop!_OS" height="45">
 <img src="https://cdn.simpleicons.org/opensuse" alt="openSUSE" height="45">
 <img src="https://cdn.simpleicons.org/virtualbox/58a6ff" alt="VirtualBox" height="45">
